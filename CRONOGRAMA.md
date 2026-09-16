@@ -2,6 +2,6 @@
 
 | Segunda | Terça | Quarta | Quinta | Sexta |
 |---------|-------|--------|--------|-------|
-| Monitoria Londrinense Tech | Monitoria Pensamento Computacional | Estudar Java | Estudar para o grupo de pesquisa de sábado | Estudar para o grupo de estudo |
-| Relatório | Relatório | Desenvolver algo em Java | Estudar Java | Grupo de estudo |
-| Estudar matemática | Estudar matemática | *Atividade urgente ou imprevista | Desenvolver algo em Java | |
+| Estudar Python | Relatório | Estudar Python | Estudar Java| Estudar para o grupo de estudo |
+| Estudar Python | Estudar Python | Estudar Python | Estudar Java | Grupo de estudo |
+| Monitoria Londrinense Tech | Estudar Python | Monitoria Pensamento Computacional | Desenvolver alguma atividade da faculdade | |
